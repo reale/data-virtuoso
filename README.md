@@ -1,6 +1,6 @@
 # Data Virtuoso
 
-A notebook about data management (work in progress).
+A notebook about data management (**work in progress**).
 
 ## Introduction
 
