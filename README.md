@@ -1,5 +1,7 @@
 # Data Virtuoso
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reale/data-virtuoso/blob/master/chapter01.ipynb)
+
 A notebook about data management (**work in progress**).
 
 ## Introduction
