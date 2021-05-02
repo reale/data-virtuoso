@@ -1,7 +1,0 @@
-language: ruby
-
-install:
-        - go get github.com/campoy/embedmd
-
-script:
-        - rake deploy:branch
